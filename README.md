@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack, Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Web apps using Mern stack,Cloud-based or DevOps-related Projects(especially college-level or open source projects**
+- 👯 I’m looking to collaborate on **Web apps using Mern stack,Cloud-based or DevOps-related Projects(especially college-level or open source projects)**
 
 - 🤝 I’m looking for help with **React, Backend API's, DevOps tools and preparing for GSoC 2026**
 
